@@ -1,5 +1,5 @@
-// Natural Language Processing Dec 23 2018
-// Gaurav Shyam Sunder Kedia
+# Natural Language Processing Dec 23 2018
+# Gaurav Shyam Sunder Kedia
 
 It generates two output files named "Part1.txt" and "Output.txt" in the same path as the source code.
 Part1.txt display elements of a list which are Vector Length of Each Document.
